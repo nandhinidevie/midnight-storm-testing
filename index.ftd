@@ -1,5 +1,4 @@
 -- ds.page: Welcome to my website
-site-logo: $asset.files.assets.logo.png
 site-name: Freelance Content Writer
 full-width: true
 sidebar: false
