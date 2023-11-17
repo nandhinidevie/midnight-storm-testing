@@ -1,6 +1,7 @@
 -- ds.page: Welcome to my website
-site-logo: $assets.files.static.logo.png
 site-name: Freelance Content Writer
+full-width: true
+sidebar: false
 
 
 ⚡️ `doc-site` will help you create a beautiful documentation site in no time.
